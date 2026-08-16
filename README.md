@@ -1,4 +1,4 @@
-# Hi, I'm Mircea 👋
+# Morar Mircea-Mihnea
 
 Fourth-year Computer Science student at **Universitatea Transilvania din Brașov**, Romania.
 
