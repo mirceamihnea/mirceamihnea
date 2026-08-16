@@ -40,4 +40,6 @@ I work across the whole stack of a product — Spring Boot APIs one day, ESP32 f
 
 ## 📫 Reach me
 
+Currently open to **part-time work** — on-site or hybrid in Brașov, fully remote elsewhere.
+
 [morarmircea9@gmail.com](mailto:morarmircea9@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mircea-morar-04b6a836b/)
